@@ -1,0 +1,14 @@
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\bin\Debug\net8.0\lanchonete.exe
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\bin\Debug\net8.0\lanchonete.deps.json
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\bin\Debug\net8.0\lanchonete.runtimeconfig.json
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\bin\Debug\net8.0\lanchonete.dll
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\bin\Debug\net8.0\lanchonete.pdb
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\obj\Debug\net8.0\lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\obj\Debug\net8.0\lanchonete.AssemblyInfoInputs.cache
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\obj\Debug\net8.0\lanchonete.AssemblyInfo.cs
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\obj\Debug\net8.0\lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\obj\Debug\net8.0\lanchonete.dll
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\obj\Debug\net8.0\refint\lanchonete.dll
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\obj\Debug\net8.0\lanchonete.pdb
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\obj\Debug\net8.0\lanchonete.genruntimeconfig.cache
+C:\Users\CEET Giuseppe Altoé\source\repos\lanchonete\obj\Debug\net8.0\ref\lanchonete.dll
